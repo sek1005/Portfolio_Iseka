@@ -1,4 +1,4 @@
-# Porfolio ines Seka
+# Porfolio Ines Seka
 
 ![Image text](./src/assets/img/read.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
